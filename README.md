@@ -1,34 +1,124 @@
-<div>
-  # Matthew Valencia
-    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HirokiShinsei&show_icons=true&locale=en&layout=compact" alt="HirokiShinsei" />
-    <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=HirokiShinsei&" alt="HirokiShinsei" />
-</div>
+## MATTHEW VALENCIA  
+  
 
-<div>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHirokiShinsei%2FHirokiShinsei&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://github.com/HirokiShinsei" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/matthewvalencia-ph" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Shinsei.Kirihiro" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+  
 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewvalencia-ph/)
+I’m a Computer Science student majoring in Artificial Intelligence from the Philippines, currently studying at West Visayas State University (WVSU), that does general development with little specialty in mobile development using Flutter. 
 
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matthewandrei.valencia@wvsu.edu.ph)
+My interests lie in creating innovative solutions across various fields, including technology, healthcare, and transportation added with a few fun skirmish projects. I enjoy exploring new tools and methodologies, solving complex problems, and bringing ideas to life.  
+  
 
-  [![Github](https://img.shields.io/github/followers/HirokiShinsei?label=Follow&style=social)](https://github.com/HirokiShinsei)
-</div>
-
-BS Computer Science Major in Artificial Intelligence
-
-Coding | Photography
-
-Official RNFTC Affiliate
-
-Learning Full Stack Development
+<br/>  
 
 
-### 🖥 Skills
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=Cloudflare&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-nVIDIA-05122A?style=flat&logo=nVIDIA&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=NPM&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React-Native&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=Strapi&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=Svelte&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=Adobe&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=Adobe-After-Effects&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Acrobat%20Reader-05122A?style=flat&logo=Adobe-Acrobat-Reader&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Audition-05122A?style=flat&logo=Adobe-Audition&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-05122A?style=flat&logo=Adobe-Creative-Cloud&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=Adobe-Illustrator&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20InDesign-05122A?style=flat&logo=Adobe-InDesign&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Lightroom-05122A?style=flat&logo=Adobe-Lightroom&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Lightroom%20Classic-05122A?style=flat&logo=Adobe-Lightroom-Classic&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe-Photoshop&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe-Premiere-Pro&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=Plotly&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-scikit-05122A?style=flat&logo=scikit&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=CMake&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=Confluence&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=Gradle&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C++&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-AssemblyScript-05122A?style=flat&logo=AssemblyScript&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=286fa4) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=286fa4)
+
+### Specialization  
+- Flutter Development   
+- Web Development   
+- Deep Learning & Machine Learning  
+  
+
+
+
+### Major Project (Undergraduate Thesis)  
+- Finalizing Concept...  
+
+
+</td><td valign="top" width="50%">
+
+<div align="right">
+<img src="https://tenor.com/view/ruby-hoshino-oshi-no-ko-hoshino-ruby-anime-girl-cute-gif-7995970192070238007" align="right" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HirokiShinsei&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirokiShinsei&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
