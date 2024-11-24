@@ -19,32 +19,28 @@ My interests lie in creating innovative solutions across various fields, includi
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Specialization  
-- Flutter Development   
-- Web Development   
-- Deep Learning & Machine Learning  
+# Specialization  
   
 
+- ### Flutter Development   
+  
 
+- ### Web Development   
+  
 
-### Major Project (Undergraduate Thesis)  
-- Finalizing Concept...  
+- ### Deep Learning & Machine Learning  
+  
 
+# Major Project (Undergraduate Thesis)  
+  
 
-</td><td valign="top" width="50%">
+- ### Finalizing Concept...  
+  
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <h2>Computer Science Students mid program</h2>
+  <img src="https://github.com/user-attachments/assets/5e481360-e57d-4ab3-b033-c376629251ea" alt="hoshinoruby-oshi-no-ko" style="width: 100%; margin-top: 20px; margin-bottom: 20px;" />
+</div>
 
-<div align="right">
-<img src="https://tenor.com/view/ruby-hoshino-oshi-no-ko-hoshino-ruby-anime-girl-cute-gif-7995970192070238007" align="right" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -119,6 +115,3 @@ My interests lie in creating innovative solutions across various fields, includi
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
