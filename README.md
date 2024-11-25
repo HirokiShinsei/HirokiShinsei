@@ -112,6 +112,6 @@ My interests lie in creating innovative solutions across various fields, includi
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=HirokiShinsei&&style=flat-square)  
 
 <br />
